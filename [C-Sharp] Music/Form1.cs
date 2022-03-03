@@ -1,15 +1,18 @@
-﻿using System;
+using System;
 using System.Windows.Forms;
 
 namespace _C_Sharp__Music
 {
-    public partial class Form1 : Form
+    public partial class PlayerWindow : Form
     {
-        public Form1()
+        public PlayerWindow()
         { InitializeComponent(); }
 
         String[] files, paths; //пути и папки.
         Boolean play_F = true; //флаг корректного отображения и работы кнопки play/pause
+
+        private void Form1_Load(object sender, EventArgs e)
+        { player.settings.volume = 50; }
 
         WMPLib.WindowsMediaPlayer player = new WMPLib.WindowsMediaPlayer(); // библиотека Windows.MediaPlayer.dll
 
@@ -122,10 +125,15 @@ namespace _C_Sharp__Music
                 }
             }
         }
+
+        //6. Настройки громкости
+        private void volumeUp_button_Click(object sender, EventArgs e)
+        { player.settings.volume = player.settings.volume + 10; }
+        private void volumeDown_button_Click(object sender, EventArgs e)
+        { player.settings.volume = player.settings.volume - 10; }
+
         private void Songs_SelectedIndexChanged(object sender, EventArgs e)
-        { 
-            player.URL = paths[Songs.SelectedIndex];
-        }
+        { player.URL = paths[Songs.SelectedIndex]; }
 
         //Обработчики анимации кнопок
         private void playPause_button_MouseDown(object sender, MouseEventArgs e)
@@ -174,25 +182,27 @@ namespace _C_Sharp__Music
         {
             import_button.BackgroundImage = global::_C_Sharp__Music.Properties.Resources.import_button_pressed;
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            player.settings.volume = player.settings.volume + 10;
-        }
-
-        private void Form1_Load(object sender, EventArgs e) //в начале будет 
-        {
-            player.settings.volume = 50;
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            player.settings.volume = player.settings.volume - 10;
-        }
-
         private void import_button_MouseUp(object sender, MouseEventArgs e)
         {
             import_button.BackgroundImage = global::_C_Sharp__Music.Properties.Resources.import_button;
+        }
+
+        private void volumeUp_button_MouseDown(object sender, MouseEventArgs e)
+        {
+            volumeUp_button.BackgroundImage = global::_C_Sharp__Music.Properties.Resources.volumeUp_button_pressed;
+        }
+        private void volumeUp_button_MouseUp(object sender, MouseEventArgs e)
+        {
+            volumeUp_button.BackgroundImage = global::_C_Sharp__Music.Properties.Resources.volumeUp_button;
+        }
+
+        private void volumeDown_button_MouseDown(object sender, MouseEventArgs e)
+        {
+            volumeDown_button.BackgroundImage = global::_C_Sharp__Music.Properties.Resources.volumeDown_button_pressed;
+        }
+        private void volumeDown_button_MouseUp(object sender, MouseEventArgs e)
+        {
+            volumeDown_button.BackgroundImage = global::_C_Sharp__Music.Properties.Resources.volumeDown_button;
         }
     }
 }
