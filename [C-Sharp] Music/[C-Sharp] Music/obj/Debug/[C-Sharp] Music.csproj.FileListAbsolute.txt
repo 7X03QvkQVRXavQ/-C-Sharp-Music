@@ -1,0 +1,31 @@
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\[C-Sharp] Music.exe.config
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\[C-Sharp] Music.exe
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\[C-Sharp] Music.pdb
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.csproj.AssemblyReference.cache
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.csproj.SuggestedBindingRedirects.cache
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\_C_Sharp__Music.Form1.resources
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\_C_Sharp__Music.Properties.Resources.resources
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.csproj.GenerateResource.cache
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.csproj.CoreCompileInputs.cache
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.exe
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.pdb
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\Interop.WMPLib.dll
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\Interop.WMPLib.dll
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\an0ni\source\repos\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.csproj.ResolveComReference.cache
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\[C-Sharp] Music.exe.config
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\[C-Sharp] Music.exe
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\[C-Sharp] Music.pdb
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\Interop.WMPLib.dll
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\Interop.WMPLib.dll
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.csproj.ResolveComReference.cache
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\_C_Sharp__Music.Properties.Resources.resources
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.csproj.GenerateResource.cache
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.csproj.CoreCompileInputs.cache
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.exe
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.pdb
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\[C-Sharp] Music.csproj.AssemblyReference.cache
+C:\Users\kozlo\Downloads\[C-Sharp] Music\[C-Sharp] Music\obj\Debug\_C_Sharp__Music.PlayerWindow.resources
